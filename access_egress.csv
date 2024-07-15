@@ -1,0 +1,21 @@
+,NETWORK_TYPE,ACCESS_MODE,EGRESS_MODE,access_mode_r (km),egress_mode_r (km),access_mode_speed (km/hr),egress_mode_speed (km/hr)
+0,App_Based_Car,Walk,Walk,1,1,5,5
+0,App_Based_Car,Walk,Bicycle,3,4,5,10
+0,App_Based_Car,Bicycle,Walk,4,5,10,5
+0,App_Based_Car,Bicycle,Bicycle,4,4,10,10
+0,App_Based_Car,Own_Two_Wheeler,Walk,5,5,30,5
+0,App_Based_Car,Own_Two_Wheeler,Bicycle,5,4,30,10
+0,App_Based_Car,Own_Car,Walk,6,5,40,5
+0,App_Based_Car,Own_Car,Bicycle,6,4,40,10
+0,App_Based_Car,Auto_Rickshaw,Walk,7,5,20,5
+0,App_Based_Car,Auto_Rickshaw,Bicycle,7,4,20,10
+0,Office_Vehicle,Walk,Walk,4,10,5,5
+0,Office_Vehicle,Walk,Bicycle,4,20,5,10
+0,Office_Vehicle,Bicycle,Walk,6,10,10,5
+0,Office_Vehicle,Bicycle,Bicycle,6,20,10,10
+0,Office_Vehicle,Own_Two_Wheeler,Walk,7,10,30,5
+0,Office_Vehicle,Own_Two_Wheeler,Bicycle,7,20,30,10
+0,Office_Vehicle,Own_Car,Walk,8,10,40,5
+0,Office_Vehicle,Own_Car,Bicycle,8,20,40,10
+0,Office_Vehicle,Auto_Rickshaw,Walk,9,10,20,5
+0,Office_Vehicle,Auto_Rickshaw,Bicycle,9,20,20,10
