@@ -1,0 +1,5 @@
+trip_purpose,equation,comments
+HBW,bbmp*0.073*pop + (1-bbmp)*0.22*pop + bbmp*0.92*employ + (1-bbmp)*1.29*employ + bbmp*0.07*comm_m2 + bbmp*0.276*puut_m2 + bbmp*0.188*accessibility_vector + (1-bbmp)*2.04*accessibility_vector,When travel time is used in accessibility
+HBE,bbmp*0.11*pop + (1-bbmp)*0.368*pop +bbmp*0.644*puut_m2 + bbmp*0.176*accessibility_vector + (1-bbmp)*0.153*accessibility_vector,When travel time is used in accessibility
+HBO,bbmp*0.11*pop + (1-bbmp)*0.276*pop + bbmp*0.276*employ + (1-bbmp)*0.69*employ + bbmp*0.085*comm_m2 + bbmp*0.276*puut_m2 + bbmp*0.176*accessibility_vector + (1-bbmp)*2.55*accessibility_vector,When travel time is used in accessibility
+NHB,bbmp*0.018*pop +(1-bbmp)*0.092*pop + bbmp*0.138*employ + (1-bbmp)*0.23*employ + bbmp*0.021*comm_m2 + bbmp*0.138*puut_m2 + bbmp*0.88*accessibility_vector + (1-bbmp)*1.7*accessibility_vector,When travel time is used in accessibility

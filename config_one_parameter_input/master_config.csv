@@ -1,0 +1,13 @@
+trip_purpose,mode,ToD,Start_time,End_time,consider_bicycle_lane,consider_footpath,LS_ToD,distance_boarding_aligtings,number_external_zone,max_RMSE,max_iterations,Representative journey selection,aux_pv_mode,aux_pv_pce,aux_cv_mode,aux_cv_pce
+HBW,Walk,AM,8:00:01,11:00:00,0,0,AM,3,15,0.01,5,1,Own_Car,1,Agri_tractor,1
+,Bicycle,,,,,,,,,1,1,,Own_Two_Wheeler,0.5,Agri_tractor_trailor,3
+,Own_Two_Wheeler,,,,,,,,,,,,Auto_Rickshaw,1.2,Constant_equipment,4
+,Own_Car,,,,,,,,,,,,Bus,1,LCV,1
+,Auto_Rickshaw,,,,,,,,,,,,,,Multi_axle,5
+,App_Based_Two_Wheeler,,,,,,,,,,,,,,Three_axle,4
+,App_Based_Car,,,,,,,,,,,,,,Two_axle,3
+,Vehicle_Pool,,,,,,,,,,,,,,,
+,School_Bus,,,,,,,,,,,,,,,
+,Bus,,,,,,,,,,,,,,,
+,Metro,,,,,,,,,,,,,,,
+,Bus_and_Metro,,,,,,,,,,,,,,,

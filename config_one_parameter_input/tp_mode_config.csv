@@ -1,0 +1,13 @@
+trip_purpose/modes,HBW
+Own_Two_Wheeler,1
+Own_Car,1
+Walk,1
+Bicycle,1
+App_Based_Two_Wheeler,1
+Auto_Rickshaw,1
+App_Based_Car,1
+Vehicle_Pool,1
+School_Bus,0
+Bus,1
+Metro,1
+Bus_and_Metro,1

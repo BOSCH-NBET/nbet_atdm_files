@@ -1,0 +1,5 @@
+trip_purpose,num_expr,den_expr,comments
+HBW,1.5*bbmp*(0.001*pop + 0.002*employ + 0.001*comm_m2 + 0.002*puut_m2) + 2*(1-bbmp)*(0.001*pop + 0.002*employ),IVTT,When travel time is used
+HBE,1.6*bbmp*(0.001*pop + 0.004*puut_m2) + 2.4*(1-bbmp)*(0.001*pop),IVTT,When travel time is used
+HBO,0.8*bbmp*(0.001*pop + 0.002*employ + 0.002*comm_m2 + 0.002*puut_m2) + 1.2*(1-bbmp)*(0.001*pop + 0.002*employ),IVTT,When travel time is used
+NHB,0.06*bbmp*(0.0001*pop + 0.002*employ+0.002*comm_m2 + 0.002*puut_m2) + 1.2*(1-bbmp)*(0.0001*pop + 0.002*employ),IVTT,When travel time is used

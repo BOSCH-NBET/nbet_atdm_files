@@ -1,0 +1,5 @@
+trip_purpose,equation,comments
+HBW,0.736*pop + bbmp*0.188*accessibility_vector + (1-bbmp)*2.04*accessibility_vector,When travel time is used
+HBE,0.368*pop + bbmp*0.176*accessibility_vector +(1-bbmp)*0.153*accessibility_vector,When travel time is used
+HBO,0.552*pop + bbmp*0.176*accessibility_vector + (1-bbmp)*2.55*accessibility_vector,When travel time is used
+NHB,0.184*pop + bbmp*0.88*accessibility_vector + (1-bbmp)*1.7*accessibility_vector,When travel time is used

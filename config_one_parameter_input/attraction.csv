@@ -1,0 +1,2 @@
+trip_purpose,equation,comments
+HBW,bbmp*0.073*pop + (1-bbmp)*0.22*pop + bbmp*0.92*employ + (1-bbmp)*1.29*employ + bbmp*0.07*comm_m2 + bbmp*0.276*puut_m2 + bbmp*0.188*accessibility_vector + (1-bbmp)*2.04*accessibility_vector,When travel time is used in accessibility
