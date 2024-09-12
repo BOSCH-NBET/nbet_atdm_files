@@ -1,5 +1,2 @@
 egress_mode,Bus,Metro,Bus_and_Metro,radius_Bus_km,radius_Metro_km,radius_Bus_and_Metro_km
-Walk,1,1,1,1,1.5,1
 Auto_Rickshaw,1,1,1,3,3.5,3
-App_Based_Two_Wheeler,1,1,1,3,4,3
-App_Based_Car,1,1,1,3,4,3
