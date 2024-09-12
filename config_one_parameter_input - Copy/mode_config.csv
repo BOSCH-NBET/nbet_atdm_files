@@ -1,0 +1,13 @@
+mode_name,transit,access,egress,mode_time_conversion_factor,speed_kmph,cost_rs_per_km,wait_time_minutes,availability_criterion,vo_factor,pce_factor,use_skim_for_impedance
+Walk,0,1,1,6,5,0,0,distance <= 5,1,0,0
+Bicycle,0,0,0,3,10,0,0,distance <= 10,1.3,0.2,0
+Own_Two_Wheeler,0,0,0,0.86,35,3,0,1,1.5,0.5,0
+Own_Car,0,0,0,1,30,11,0,1,2.3,1,1
+Auto_Rickshaw,0,0,0,1.36,22,15,5,1,1.7,1.2,0
+App_Based_Two_Wheeler,0,0,0,0.86,35,7,5,1,2,0.5,0
+App_Based_Car,0,0,0,1,30,24,5,1,2.5,1,0
+Vehicle_Pool,0,0,0,1,30,8,10,1,3,1,0
+School_Bus,0,0,0,1.5,20,5,10,1,30,3.5,0
+Bus,1,0,0,1.5,20,NA,10,1,1,1,0
+Metro,1,0,0,0.81,37,NA,5,1,1,1,0
+Bus_and_Metro,1,0,0,1,30,NA,7,1,1,1,0
