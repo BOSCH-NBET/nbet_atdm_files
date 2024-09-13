@@ -1,0 +1,2 @@
+trip_purpose,Impedance functional form,comments
+HBW,1.8*IVTT*IVTT*exp(-0.05*IVTT),When travel time is used

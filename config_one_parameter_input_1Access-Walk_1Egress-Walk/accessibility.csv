@@ -1,0 +1,2 @@
+trip_purpose,num_expr,den_expr,comments
+HBW,1.5*bbmp*(0.001*pop + 0.002*employ + 0.001*comm_m2 + 0.002*puut_m2) + 2*(1-bbmp)*(0.001*pop + 0.002*employ),IVTT,When travel time is used

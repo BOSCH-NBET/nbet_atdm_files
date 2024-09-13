@@ -1,0 +1,2 @@
+egress_mode,Bus,Metro,Bus_and_Metro,radius_Bus_km,radius_Metro_km,radius_Bus_and_Metro_km
+Walk,1,1,1,1,1.5,1
